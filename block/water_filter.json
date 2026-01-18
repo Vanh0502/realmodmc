@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "examplemod:block/water_filter",
+    "up": "examplemod:block/water_filter_top",
+    "north": "examplemod:block/water_filter_side",
+    "south": "examplemod:block/water_filter_side",
+    "west": "examplemod:block/water_filter_side",
+    "east": "examplemod:block/water_filter_side"
+  }
+}
